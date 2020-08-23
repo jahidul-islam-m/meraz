@@ -1,0 +1,32 @@
+
+.container{
+    margin-bottom: 5%;
+}
+.menubar{
+    margin-top: 2%;
+}
+.slidertext{
+    padding-left: 5%;
+}
+/* button */
+.buybutton{
+    background-image: linear-gradient(to bottom ,#000000 10%,rgb(59, 58, 58) 100%);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+}
+.categories{
+    height: 180px;
+    border-radius: 8px 0px;
+    box-shadow: 0 0 8px 0 rgba(0, 0, 0, .15);	
+}
+footer{
+    text-align: center;
+}
